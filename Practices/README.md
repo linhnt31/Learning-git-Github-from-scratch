@@ -15,3 +15,6 @@ ___
 + ***git remote add origin URL***: Git need to know a *tag and URL* to push to online services (github, gitlab)
 []()
 + ***git push -u origin master***: push to repository in the github
+[]()
++ ***git pull***: sync local machine and Github.
+[]()
