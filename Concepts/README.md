@@ -14,7 +14,7 @@ Git is a tool a developer installs **locally** on their computer| GitHub is an *
 > The key difference between Git and GitHub is that Git is an open-source tool developers install locally to manage source code, while GitHub is an ***online service*** to which developers who ***use Git can connect and upload or download resources***.
 
 ## Work-flow
-[](/home/hunter/Documents/Learning-git-from-scratch/Images/workflow.png)
+![](https://github.com/viendanbac/Learning-git-Github-from-scratch/blob/master/Images/workflow.png)
 
 ## References
 * [Git & Github](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
