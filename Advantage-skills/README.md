@@ -8,3 +8,5 @@ ___
 2. **Commands**
 * ***git branch***: creates a new branch
 * ***git checkout***: switchs branchs
+> To make it faster, we can combine 2 commands **branch** and **checkout** by: ***git checkout -b name_branch***
+* ******
