@@ -11,7 +11,7 @@ ___
 * ***git checkout***: switchs branchs
 ![](https://github.com/viendanbac/Learning-git-Github-from-scratch/blob/master/Images/check-out.png)
 > To make it faster, we can combine 2 commands **branch** and **checkout** by: ***git checkout -b name_branch***
-![](https://github.com/viendanbac/Learning-git-Github-from-scratch/blob/master/Images/checkout-branch.png)
+![](https://github.com/viendanbac/Learning-git-Github-from-scratch/blob/master/Images/pull-request.png)
 * ***git merge***: merges branchs together.
 ![](https://github.com/viendanbac/Learning-git-Github-from-scratch/blob/master/Images/merge.png)
 > But in real project, we will not merge code changes straightway. To:
