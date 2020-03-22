@@ -7,6 +7,13 @@
 ___
 2. **Commands**
 * ***git branch***: creates a new branch
+![]()
 * ***git checkout***: switchs branchs
+![]()
 > To make it faster, we can combine 2 commands **branch** and **checkout** by: ***git checkout -b name_branch***
-* ******
+* ***git merge***: merges branchs together.
+![]()
+> But in real project, we will not merge code changes straightway. To:
+> 1. Review before merge.
+> 2. Make **commits** more concise.
+> ***Solution***: **pull request**
