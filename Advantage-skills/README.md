@@ -1,7 +1,7 @@
 ### Git flow and senario
 **1. Senario**
 > If you are working in one project that has many features
-> We do not commits and push to ***master*** but create a **new branch**. Then, we review *commit* and ***merge*** them together.
+> We do not commit and push to ***master*** but create a **new branch**. Then, we review *commits* and ***merge*** them together.
 
 ![](https://gitbookdown.site/img/git_branch_merge.png)
 ___
