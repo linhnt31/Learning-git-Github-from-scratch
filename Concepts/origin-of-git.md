@@ -24,5 +24,7 @@ ___
 ___
 ### References
 [git-about](https://git-scm.com/about)
+
 [Vietnamese tutorial](https://viblo.asia/p/git-hoc-nghiem-tuc-mot-lan-phan-1-OeVKBo6JZkW)
+
 [Centralized and Distributed VCS](https://medium.com/faun/centralized-vs-distributed-version-control-systems-a135091299f0)
