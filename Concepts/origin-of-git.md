@@ -21,3 +21,8 @@ ___
 ##### 1. Staging area
 -This is ***an intermediate area*** where commits can be formatted and reviewed ***before completing the commit.***
 -Each file in git are managed based-on 3 conditions: ***modified***, ***staged***, ***commit***
+___
+### References
+[git-about](https://git-scm.com/about)
+[Vietnamese tutorial](https://viblo.asia/p/git-hoc-nghiem-tuc-mot-lan-phan-1-OeVKBo6JZkW)
+[Centralized and Distributed VCS](https://medium.com/faun/centralized-vs-distributed-version-control-systems-a135091299f0)
