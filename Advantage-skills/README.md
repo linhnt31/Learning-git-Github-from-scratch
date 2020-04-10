@@ -18,3 +18,4 @@ ___
 > 1. Review before merge.
 > 2. Make **commits** more concise.
 > ***Solution***: **pull request**
+* ***git commit --amend -m "new commit"*** + ***git push --force branch-name***: changes recently pushed commit. (not recommend because it may cause issues to people who based their work on this commit)
